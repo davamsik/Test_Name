@@ -1,6 +1,6 @@
 #!/bin/bash
 
-a=10
+a=15
 b=20
 
 if [ $a -eq $b ]; then
